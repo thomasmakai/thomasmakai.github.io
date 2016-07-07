@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Mithrandia"
+title                    : "Thomas.Makai"
 title_separator          : "-"
 name                     : "Thomas Makai"
-description              : "An amazing website."
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -27,7 +27,8 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
+                           # "light" (default), "dark"
 
 # SEO Related
 google_site_verification :
@@ -37,7 +38,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "Thomas_M91"
 facebook:
   username               :
   app_id                 :
@@ -65,7 +66,7 @@ google_ad_slot           :
 author:
   name             : "Thomas Makai"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : ""
   location         : "Denmark"
   email            :
   uri              :
@@ -78,7 +79,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
@@ -86,7 +87,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/Thomas_M91
   vine             :
   weibo            :
   xing             :
